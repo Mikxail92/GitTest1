@@ -6,4 +6,6 @@ public class Q1 {
     String q1 = "qwe";
      String  qe = "qwe";
 
+int d;
+    String q1;
 }
