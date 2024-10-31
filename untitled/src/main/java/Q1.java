@@ -3,6 +3,6 @@
 
 public class Q1 {
 
-    String q1;
-     String  qe;
+    String q1 = "qwe";
+     String  qe = "qwe";
 }
